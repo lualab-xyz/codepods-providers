@@ -1,0 +1,9 @@
+display_name: "Groq"
+description: |
+  Groq offers very fast inference for open models such as Llama through an
+  OpenAI-compatible API. It includes a free tier with generous rate limits for
+  developers, plus paid higher-throughput plans for production workloads.
+icon: "groq-light.svg"
+icon_dark: "groq-dark.svg"
+base_url: "https://api.groq.com/openai/v1"
+doc_url: "https://console.groq.com/keys"

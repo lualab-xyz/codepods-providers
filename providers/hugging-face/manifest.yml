@@ -1,0 +1,10 @@
+display_name: "Hugging Face"
+description: |
+  Hugging Face Inference Providers offers access to thousands of open and
+  commercial models through a single OpenAI-compatible endpoint. New accounts
+  receive a limited amount of free monthly credits to explore the catalog;
+  beyond that, usage is pay-per-use.
+icon: "huggingface-light.svg"
+icon_dark: "huggingface-dark.svg"
+base_url: "https://router.huggingface.co/v1"
+doc_url: "https://huggingface.co/docs/inference-providers/get-started"

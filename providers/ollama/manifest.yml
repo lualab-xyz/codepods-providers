@@ -1,0 +1,11 @@
+display_name: "Ollama"
+description: |
+  Ollama runs large language models locally on your own machine with no
+  subscription and no usage fees. It is fully private: once a model is
+  downloaded, inference runs offline for free. You can also point it at a
+  remote Ollama server on your network or a cloud host with a flat-rate plan,
+  keeping the same OpenAI-compatible API.
+icon: "ollama-light.svg"
+icon_dark: "ollama-dark.svg"
+base_url: "http://localhost:11434/v1"
+doc_url: "https://docs.ollama.com"

@@ -1,0 +1,9 @@
+display_name: "Mistral"
+description: |
+  Mistral AI provides fast, efficient models through its La Plateforme API,
+  which is OpenAI-compatible. New users get a limited free tier with trial
+  credits to get started; beyond that, usage is pay-per-use.
+icon: "mistral-light.svg"
+icon_dark: "mistral-dark.svg"
+base_url: "https://api.mistral.ai/v1"
+doc_url: "https://docs.mistral.ai/getting-started/get_api_key/"

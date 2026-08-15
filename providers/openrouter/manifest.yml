@@ -1,0 +1,9 @@
+display_name: "OpenRouter"
+description: |
+  OpenRouter is a unified gateway to hundreds of models from many providers
+  behind a single API key. It includes many free (rate-limited) models as well
+  as pay-per-use models billed on one account, so you can mix both freely.
+icon: "openrouter-light.svg"
+icon_dark: "openrouter-dark.svg"
+base_url: "https://openrouter.ai/api/v1"
+doc_url: "https://openrouter.ai/docs/keys"

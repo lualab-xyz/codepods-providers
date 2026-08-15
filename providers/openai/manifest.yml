@@ -1,0 +1,9 @@
+display_name: "OpenAI"
+description: |
+  OpenAI provides the GPT series of models through its official API. It is
+  pay-per-use with no free tier for API access; you add billing and can set
+  per-account usage limits in the platform dashboard.
+icon: "openai-light.svg"
+icon_dark: "openai-dark.svg"
+base_url: "https://api.openai.com/v1"
+doc_url: "https://platform.openai.com/api-keys"

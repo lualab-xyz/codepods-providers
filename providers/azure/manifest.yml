@@ -1,0 +1,10 @@
+display_name: "Microsoft Azure OpenAI"
+description: |
+  Azure OpenAI Service hosts OpenAI models in Microsoft's cloud with enterprise
+  features and regional deployment. New Azure subscriptions typically include
+  initial free credits to spend on services; you create an OpenAI resource and
+  deploy a model in the Azure portal, then use its endpoint and API key.
+icon: "azure-light.svg"
+icon_dark: "azure-dark.svg"
+base_url: "https://<your-resource>.openai.azure.com/openai/v1"
+doc_url: "https://learn.microsoft.com/azure/ai-services/openai/"
