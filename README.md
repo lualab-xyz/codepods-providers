@@ -7,16 +7,6 @@ streamline provider onboarding in its UI.
 Each provider lives in its own folder at the repository root (e.g. `ollama/`,
 `openai/`) and contains a `manifest.yml` plus light/dark SVG icons.
 
-## Providers
-
-- `ollama/`
-- `hugging-face/`
-- `mistral/`
-- `openrouter/`
-- `openai/`
-- `azure/`
-- `groq/`
-
 ## Manifest schema
 
 ```yaml
