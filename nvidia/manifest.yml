@@ -1,0 +1,10 @@
+display_name: "NVIDIA NIM"
+description: |
+  NVIDIA NIM (Build, build.nvidia.com) hosts accelerated open and
+  NVIDIA-optimized models, including Nemotron, Llama and DeepSeek, behind an
+  OpenAI-compatible API. It offers a free tier with daily rate limits and
+  credits to get started, plus paid pay-per-use plans for higher throughput.
+icon: "nvidia-light.svg"
+icon_dark: "nvidia-dark.svg"
+base_url: "https://integrate.api.nvidia.com/v1"
+doc_url: "https://build.nvidia.com/docs"
