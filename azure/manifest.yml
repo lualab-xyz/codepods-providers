@@ -6,7 +6,7 @@ description: |
   credentials for the specific project you create. A new Azure account
   includes $200 of free credit for 30 days to try the services, after which
   usage is pay-per-use.
-icon: "azureai_b.svg"
-icon_dark: "azureai_w.svg"
+icon: "azure-light.svg"
+icon_dark: "azure-dark.svg"
 base_url: "https://<project>.<region>.services.ai.azure.com/models"
 doc_url: "https://learn.microsoft.com/azure/ai-foundry/"
