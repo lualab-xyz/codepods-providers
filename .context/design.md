@@ -6,12 +6,13 @@ A repository of declarative manifests that describe third-party AI providers so 
 
 ## Layout
 
+Each provider is a folder at the repository root:
+
 ```
-providers/
-  <provider-id>/
-    manifest.yml       # provider metadata (see schema below)
-    <provider>-light.svg
-    <provider>-dark.svg
+<provider-id>/
+  manifest.yml       # provider metadata (see schema below)
+  <provider>-light.svg
+  <provider>-dark.svg
 ```
 
 ## Manifest schema
