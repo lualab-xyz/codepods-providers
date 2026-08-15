@@ -9,4 +9,5 @@
 
 ## Done
 - Created collection skeleton and manifest schema (`design.md`).
-- Added providers: Ollama, Hugging Face, Mistral, OpenRouter, OpenAI, Azure, Groq.
+- Added providers: Ollama, Hugging Face, Mistral, OpenRouter, OpenAI, Azure, Groq, NVIDIA NIM.
+- Normalized all icons to square 24x24 viewBox (contain, no crop).

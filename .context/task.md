@@ -2,7 +2,7 @@
 
 **Objective:** Create a collection of AI provider manifests for the CodePods application. Each provider lives in its own folder inside `providers/` with a `manifest.yml` (plus light/dark icons). CodePods will use this metadata to streamline provider onboarding in its UI.
 
-**Providers in scope:** Ollama, Hugging Face, Mistral, OpenRouter, OpenAI, Azure (OpenAI), Groq.
+**Providers in scope:** Ollama, Hugging Face, Mistral, OpenRouter, OpenAI, Azure (OpenAI), Groq, NVIDIA NIM.
 
 **Status:** Done.
 
