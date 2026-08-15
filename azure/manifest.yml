@@ -1,10 +1,12 @@
-display_name: "Microsoft Azure OpenAI"
+display_name: "Microsoft Azure AI Foundry"
 description: |
-  Azure OpenAI Service hosts OpenAI models in Microsoft's cloud with enterprise
-  features and regional deployment. New Azure subscriptions typically include
-  initial free credits to spend on services; you create an OpenAI resource and
-  deploy a model in the Azure portal, then use its endpoint and API key.
-icon: "azure-light.svg"
-icon_dark: "azure-dark.svg"
-base_url: "https://<your-resource>.openai.azure.com/openai/v1"
-doc_url: "https://learn.microsoft.com/azure/ai-services/openai/"
+  Azure AI Foundry (ai.azure.com) is Microsoft's unified platform for building
+  and deploying AI solutions. Access is scoped per project: each project
+  provides its own endpoint and API key, so you configure the base URL and
+  credentials for the specific project you create. A new Azure account
+  includes $200 of free credit for 30 days to try the services, after which
+  usage is pay-per-use.
+icon: "azureai_b.svg"
+icon_dark: "azureai_w.svg"
+base_url: "https://<project>.<region>.services.ai.azure.com/models"
+doc_url: "https://learn.microsoft.com/azure/ai-foundry/"
